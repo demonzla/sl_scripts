@@ -15,8 +15,6 @@ default
     
     link_message(integer l,integer i,string s,key k)
     {
-      //  llOwnerSay(">>> "+(string)i);
-       
        if(i==-5)
        {
           integer a;
