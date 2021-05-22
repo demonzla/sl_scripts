@@ -1,2 +1,2 @@
 # sl_scripts
-Little pack Second Life scripts
+A little pack of Second Life scripts.
