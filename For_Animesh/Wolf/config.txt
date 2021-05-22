@@ -1,0 +1,157 @@
+ *CUDDLE
+Confide M|Confide F|<0.0,0.0,0.0>|0|30|-50
+Admire M|Admire F|<0.01396, 0.00000, -0.08905>|0|30|0
+Amour M|Amour F|<0.0,0.0,0.0>|0|30|0
+Canoodle M|Canoodle F|<0.0,0.0,0.0>|0|30|0
+ConsoleM|ConsoleF|<0.0,0.0,0.0>|0|30|-55
+Cute Kiss M|Cute Kiss F|<0.35301, 0.03129, 0.14603>|<-0.00000, -0.00000, 1.00000, 0.00000>|30|20
+Erotic Kiss M|Erotic Kiss F|<0.0,0.0,0.0>|0|30|-50
+Examine M|Examine F|<0.43423, -0.03487, 0.00000>|<0.00000, 0.00000, -1.00000, 0.00000>|30|0
+Explore Her M|Explore Her F|<0.0,0.0,0.0>|0|30|-50
+Found M|Found F|<0.0,0.0,0.0>|0|30|-87
+Head Rest M|Head Rest F|<0.0,0.0,0.0>|0|30|0
+Hot Caress M|Hot Caress F|<0.0,0.0,0.0>|0|38|0
+Intimate M|Intimate F|<0.0,0.0,0.0>|0|40|-50
+Je t'aime M|Je t'aime F|<-0.04433, 0.35609, -0.05780>|<0.00000, 0.00000, 1.00000, 0.00000>|35|-80
+Kiss & Rub M|Kiss & Rub F|<0.12207, -0.49977, 0.20962>|0|38|-35
+Kneel Hug M|Kneel Hug F|<0.0,0.0,0.0>|0|26|0
+Kneel Kiss M|Kneel Kiss F|<0.0,0.0,0.0>|0|26|0
+Laplaym|Laplayf|<0.0,0.0,0.0>|0|30|-45
+Lapm|Lapf|<0.0,0.0,0.0>|0|30|-45
+Lay Kiss M|Lay Kiss F|<0.03377, -0.53465, 0.16510>|0|32|-50
+Lazy Days M|Lazy Days F|<0.0,0.0,0.0>|0|30|-30
+LiplockM|LiplockF|<0.00000, 0.00000, -0.03795>|0|30|18
+Lotion Back M|Lotion Back F|<0.0,0.0,0.0>|0|30|-44
+Lotion M|Lotion F|<0.0,0.0,0.0>|0|30|-50
+Love Kiss M|Love Kiss F|<0.0,0.0,0.0>|0|30|-40
+Love M|Love F|<0.0,0.0,0.0>|0|3|0
+Love Tits M|Love Tits F|<0.0,0.0,0.0>|0|30|0
+Love You M|Love You F|<0.0,0.0,0.0>|0|27|-50
+Loved M|Loved F|<0.0, 0.0, 0.0>|0|44|-27
+Lovers M|Lovers F|<0.00000, -0.02223, -0.17541>|0|21|-74
+Loving Spoon M|Loving Spoon F|<0.0,0.0,0.0>|0|30|-45
+Pinned Kiss M|Pinned Kiss F|<0.0,0.0,0.0>|0|30|-50
+Pussy Stroke M|Pussy Stroke F|<0.0,0.0,0.0>|0|30|0
+Rear Finger M|Rear Finger F|<0.0,0.0,0.0>|0|30|0
+Rest Head M|Rest Head F|<0.0,0.0,0.0>|0|30|0
+Rub Her M|Rub Her F|<0.0,0.0,0.0>|0|30|0
+Seduce M|Seduce F|<0.06939, -0.22409, 0.11707>|0|30|-88
+Seduction Kiss M|Seduction Kiss F|<0.0,0.0,0.0>|0|30|0
+Shy Girl M|Shy Girl F|<0.0,0.0,0.0>|0|30|-48
+Spank & Grope M|Spank & Grope F|<0.02020, -0.09075, 0.00000>|0|36|0
+Stand Kiss 1M|Stand Kiss 1F|<-0.09174, 0.08888, 0.03565>|0|30|0
+Suck Tits M|Suck Tits F|<0.00000, 0.06297, 0.03423>|0|30|-50
+Together M|Together F|<0.02474, -0.23266, -0.00119>|0|3|-90
+Warm Up M|Warm Up F|<0.0,0.0,0.0>|0|30|0
+~Eat M|~Eat F|<0.07441, -0.01737, -0.70615>|0|38|28
+
+ *MOUTH
+Balls Deep M|Balls Deep F|<0.00000, 0.03752, -0.01891>|0|25|0
+blowjob3m|blowjob3f|<-0.40245, 0.00294, -0.63614>|0|26|0
+Cock Sucker M|Cock Sucker F|<-0.07104, 0.00000, -0.06128>|0|24|-48
+Cock Worship M|Cock Worship F|<0.00000, 0.00000, -0.02396>|0|27|0
+Controlled M|Controlled F|<0.27932, 0.00932, 0.06750>|<0.00000, 0.00000, 1.00000, 0.00000>|30|0
+Deep Suck M|Deep Suck F|<0.18038, 0.02228, -0.11122>|0|29|0
+EdgeBJM|EdgeBJF|<0.00000, 0.00000, -0.00966>|0|23|-25
+ForceFeedM|ForceFeedF|<0.06500, 0.17692, -0.78001>|0|26|22
+Fuck Melons M|Fuck Melons F|<0.0,0.0,0.0>|0|30|0
+Gagging M|Gagging F|<0.00000, 0.00000, -0.10972>|0|30|0
+GobbleM|GobbleF|<-0.07718, 0.12002, -0.00517>|0|23|13
+Guzzle M|Guzzle F|<0.00000, 0.00894, -0.14298>|0|30|11
+licking2m|licking2f|<0.05020, 0.21204, -0.30467>|0|27|25
+Loving BJ M|Loving BJ F|<0.67358, 0.00018, 0.08358>|<0.00000, 0.00000, 1.00000, 0.00000>|30|0
+Nosh Off M|Nosh Off F|<-0.14193, 0.00000, -0.03770>|0|23|20
+Seated BJ M|Seated BJ F|<0.49785, 0.00951, 0.01710>|<-0.00000, -0.00000, 1.00000, 0.00000>|30|7
+Service M|Service F|<0.11477, 0.00798, -0.05452>|0|30|0
+Stand Suck M|Stand Suck F|<0.13972, 0.01688, 0.00000>|0|30|0
+Swallow M|Swallow F|<0.00000, 0.00000, -0.02496>|0|23|0
+~BJ M|~BJ F|<-0.15165, -0.02955, -0.70018>|0|24|35
+
+ *YIFF
+^reverse1m|^reverse1f|<-0.03610, 0.00000, 0.19637>|0|26|0
+^ride2m|^ride2f|<0.01925, 0.02381, 0.00000>|0|30|0
+^ridem|^ridef|<-0.07168, 0.00000, -0.19715>|0|30|0
+^sittingcow1m|^sittingcow1f|<-0.08611, 0.00000, -0.15907>|0|23|0
+^topm|^topf|<0.00000, 0.00000, -0.04546>|0|30|0
+^wallm|^wallf|<-0.05647, -0.15224, 0.04878>|0|30|0
+All Yours M|All Yours F|<-0.02626, -0.02251, -0.04869|0|25|-50
+Anal M|Anal F|<0.0,0.0,0.0>|0|30|7
+Angled M|Angled F|<0.00000, 0.00000, 0.04715>|0|27|-80
+ArchfuckM|ArchfuckF|<0.05883, 0.00000, -0.00238>|0|30|-50
+Archm|Archf|<0.0,0.0,0.0>|0|30|-65
+Asian M|Asian F|<0.00945, 0.00000, 0.76755>|0|31|-54
+Ass Watch M|Ass Watch F|<0.00000, -0.02424, 0.00000>|0|30|-44
+Ballet Fuck M|Ballet Fuck F|<0.00000, 0.00000, 0.01921>|0|30|0
+Behind Lick M|Behind Lick F|<-0.00933, 0.00000, 0.05159>|0|30|0
+Bend Over M|Bend Over F|<0.00000, 0.03007, 0.00000>|0|26|0
+Bottoms Up M|Bottoms Up F|<0.0,0.0,0.0>|0|28|9.5
+Chair Fuck M|Chair Fuck F|<0.00000, 0.02560, 0.00000>|0|30|0
+Conquered Fast M|Conquered Fast F|<-0.08692, 0.36571, -0.05583>|<-0.00000, -0.00000, 1.00000, 0.00000>|32|-80
+Conquered Slow M|Conquered Slow F|<-0.08692, 0.36571, -0.05583>|<-0.00000, -0.00000, 1.00000, 0.00000>|32|-80
+crackeatM|crackeatF|<-0.02275, 0.03887, 0.00000>|0|30|0
+Cuddle Ride M|Cuddle Ride F|<0.06329, 0.00000, -0.03721>|0|37|0
+Deep Tongue M|Deep Tongue F|<-0.05429, 0.00000, 0.04483>|0|30|6
+Delicious M|Delicious F|<0.0,0.0,0.0>|0|30|0
+Do Me M|Do Me F|<0.00000, 0.00000, 0.03217>|0|33|-48
+Face Front M|Face Front F|<0.0,0.0,0.0>|0|40|0
+FacewallM|FacewallF|<0.0,0.0,0.0>|0|38|0
+Finger M|Finger F|<0.0,0.0,0.0>|0|41|0
+Fingering M|Fingering F|<0.0,0.0,0.0>|0|30|0
+FlushedM|FlushedF|<0.0,0.0,0.0>|0|35|0
+Fuck me m|Fuck me f|<0.00000, 0.00000, -0.11228>|0|35|0
+Get Frisky M|Get Frisky F|<0.0,0.0,0.0>|0|30|-55
+Good Girl M|Good Girl F|<0.00000, -0.01126, 0.07339>|0|25|0
+Grind Him M|Grind Him F|<0.10295, -0.01893, 0.06133>|0|36|-34
+Hammerm|Hammerf|<-0.24629, 0.00000, 0.04400>|0|32|0
+Hand Job M|Hand Job F|<0.46468, 0.01220, 0.21982>|<0.00000, 0.00000, -1.00000, 0.00000>|30|0
+Hand Milk M|Hand Milk F|<0.05665, -0.01956, 0.00000>|0|30|0
+Hands & Knees M|Hands & Knees F|<0.0,0.0,0.0>|0|30|-50
+Held M|Held F|<-0.00442, 0.00000, 0.05967>|0|30|-60
+Hip Roll M|Hip Roll F|<0.07427, -0.00395, 0.03936>|0|30|-47
+Hot Suck M|Hot Suck F|<0.00211, -0.01357, -0.15461>|0|30|0
+Jerk Him M|Jerk Him F|<0.05808, -0.04148, 0.03677>|0|29|-55
+Kneel Ride M|Kneel Ride F|<0.00628, 0.00000, 0.00000>|0|32|-47
+Lean Fuck M|Lean Fuck F|<0.02275, -0.18053, 0.05713>|<0.00000, 0.00000, 0.18224, 0.98325>|33|0
+Lick Fast M|Lick Fast F|<0.10357, 0.35543, 0.04206>|<0.00000, 0.00000, -1.00000, 0.00000>|40|-80
+Lick Her M|Lick Her F|<-0.05844, -0.01805, 0.22426>|0|30|0
+Lick Slow M|Lick Slow F|<0.10438, 0.35894, 0.09193>|<0.00000, 0.00000, 1.00000, 0.00000>|30|-80
+Lifted Lean M|Lifted Lean F|<0.01047, 0.00000, 0.07163>|0|23|0
+Make Love M|Make Love F|<-0.03207, 0.00000, -0.04963>|0|33|-40
+Masturbating M|Masturbating F|<0.0,0.0,0.0>|0|30|0
+MasturbationM|MasturbationF|<0.34745, -0.01941, 0.08939>|<-0.00000, -0.00000, -1.00000, 0.00000>|30|0
+Milk Him M|Milk Him F|<0.0,0.0,0.0>|0|30|-23
+Missionary Love M|Missionary Love F|<0.0,0.0,0.0>|0|30|0
+Mounted-M|Mounted-F|<-0.10419, 0.00000, 0.11640>|0|29|7
+One Leg M|One Leg F|<-0.05655, -0.03496, 0.05060>|0|22|0
+Push Back M|Push Back F|<0.0,0.0,0.0>|0|30|0
+r1m|r1f|<-0.78818, 0.00000, -0.56409>|0|19|0
+Rear Lick Fast M|Rear Lick Fast F|<-0.07655, 0.34440, 0.02295>|<0.00000, 0.00000, 1.00000, 0.00000>|30|-90
+Rear Lick Slow M|Rear Lick Slow F|<-0.07655, 0.34440, 0.02295>|<0.00000, 0.00000, 1.00000, 0.00000>|30|-90
+Reverse Asian M|Reverse Asian F|<-0.02980, -0.01856, 0.04102>|0|22|-50
+Ride & Milk M|Ride & Milk F|<0.04750, 0.00000, 0.07199>|0|30|0
+Riding High M|Riding High F|<-0.01070, 0.00000, 0.05066>|0|30|0
+Sidedrivem|Sidedrivef|<0.02058, 0.00000, -0.04783>|0|20|-50
+Sidespoonm|Sidespoonf|<0.00000, 0.01673, 0.00000>|0|31|-50
+Soft Anal M|Soft Anal F|<0.0,0.0,0.0>|0|30|-50
+Soft Doggy M|Soft Doggy F|<0.03369, -0.01793, 0.11879>|0|19|-18
+SpiderM|SpiderF|<-0.24574, 0.00000, 0.01317>|<0.00000, -0.08716, 0.00000, 0.99619>|30|-40
+Spread M|Spread F|<0.00000, 0.00000, -0.01913>|0|30|-45
+spreademm|spreademf|<-0.05178, 0.00000, -0.05312>|0|30|-60
+Stand & Take M|Stand & Take F|<0.03334, 0.00000, 0.00000>|0|30|0
+Submit M|Submit F|<0.21590, 0.00000, -0.04965>|0|30|-80
+Sweet Milk M|Sweet Milk F|<0.0,0.0,0.0>|0|30|0
+Sweet Ride M|Sweet Ride F|<0.0,0.0,0.0>|0|30|0
+Tangle M|Tangle F|<0.00000, 0.00000, 0.00940>|0|28|-45
+Thrust Fast M|Thrust Fast F|<-0.02366, 0.35219, 0.00000>|<0.00000, 0.00000, -1.00000, 0.00000>|27|-85
+Thrust Slow M|Thrust Slow F|<-0.02366, 0.35219, 0.00000>|<0.00000, 0.00000, -1.00000, 0.00000>|27|-85
+Ti amo M|Ti amo F|<0.06824, 0.30829, 0.00000>|0|30|-80
+TurtleM|TurtleF|<-0.31143, 0.00000, -0.60066>|0|33|0
+Under M|Under F|<0.0,0.0,0.0>|0|33|-44
+underpussycontrolM|underpussycontrolF|<0.04320, 0.00994, -0.07885>|0|7|-70
+Use Tits M|Use Tits F|<0.00452, 0.00000, 0.05145>|0|37|-10
+Wall Ride M|Wall Ride F|<0.00000, -0.03128, 0.00000>|0|25|0
+Wallbanger M|Wallbanger F|<0.00000, -0.03128, 0.00000>|0|24|0
+Wild Ride M|Wild Ride F|<0.0,0.0,0.0>|0|30|0
+WildDogM|WildDogF|<-0.05407, 0.01712, 0.11602>|0|38|-50
+Wriggle M|Wriggle F|<0.05188, 0.00000, 0.02879>|0|30|-50
+Your Baby M|Your Baby F|<-0.09615, 0.00000, -0.06439>|0|30|0
